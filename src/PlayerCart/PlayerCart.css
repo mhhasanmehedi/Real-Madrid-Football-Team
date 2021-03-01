@@ -1,0 +1,29 @@
+.cart-style{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 19px;
+    margin-right: 10px;
+    box-shadow: 4px 4px 5px rgb(0 0 0 / 20%);
+    text-align: center;
+}
+.cart-style h1{
+    color: orange;
+    border-bottom: 1px solid orange;
+}
+.title{
+    text-align: left;
+    display: flex;
+    font-weight: 700;    
+}
+.player-select{
+    display: flex;
+    text-align: left;
+    line-height: .9;
+}
+p:first-child{
+    width: 60%;
+}
+p:last-child{
+    width: 40%;
+}

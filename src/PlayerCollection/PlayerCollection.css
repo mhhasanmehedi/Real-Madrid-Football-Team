@@ -1,0 +1,34 @@
+.single-player-box {
+    margin: 20px;
+    margin-bottom: 50px;
+    background-color: aqua;
+    width: 294px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 4px 4px 5px rgb(0 0 0 / 20%);
+    line-height: 0;
+}
+.single-player-box img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: -63px;
+    margin-left: 73px;
+}
+.single-player-box h4{
+    margin: 10px 0;
+}
+.single-player-box p{
+    line-height: .9;
+}
+.single-player-box button{
+    margin-top: 30px;
+    background-color: orange;
+    width: 169px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 4px;
+}
+button span{
+    margin-right: 4px;
+}
