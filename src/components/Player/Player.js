@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import playerData from '../fakeData/data.json';
+import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import playerData from '../../fakeData/data.json';
 import PlayerCart from '../PlayerCart/PlayerCart';
 import PlayerCollection from '../PlayerCollection/PlayerCollection';
 import './Player.css';
