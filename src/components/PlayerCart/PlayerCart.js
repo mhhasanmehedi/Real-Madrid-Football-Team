@@ -14,11 +14,11 @@ const PlayerCart = (props) => {
         <div className="cart-style">
             <h1>Team Info</h1>
             <p>Total Budget: ${total}</p>
-            <h6>Selected Team :- {cart.length}</h6>
+            <h6>Selected Team : {cart.length}</h6>
             <div className="border border-dark p-1 rounded">
                 <div className="title">
                     <p>Player Name</p>
-                    <p>Yearly Salary</p>
+                    <p>Annual Salary</p>
                 </div>
                 {
                     playerName.map(players => 
